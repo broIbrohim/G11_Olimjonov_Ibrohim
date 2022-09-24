@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="G11_Olimjonov_Ibrohim:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>G11_Olimjonov_Ibrohim</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="G11_Olimjonov_Ibrohim-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="G11_Olimjonov_Ibrohim:war exploded" />
+    </root>
+  </artifact>
+</component>
